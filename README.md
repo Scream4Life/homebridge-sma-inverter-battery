@@ -61,9 +61,4 @@ Add the following accessory block to your `config.json` under the `accessories` 
 [7/16/2025, 10:00:00 AM] [Battery Inverter] Battery SoC: raw=99, val=99%
 ```
 
----
-
-## License
-
-MIT © Kevin Czaja
 
