@@ -1,0 +1,62 @@
+{
+  "_from": "homebridge-sma-inverter@2.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-6DXgVGFW8IywX2u190kgSxD0Hb/1qEexyrH+S0d2lJyugi5AA51G1uOgMV8g5uwnWxKDgocrRbdJ7tQhqntOeg==",
+  "_location": "/homebridge-sma-inverter",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "homebridge-sma-inverter@2.2.2",
+    "name": "homebridge-sma-battery",
+    "escapedName": "homebridge-sma-inverter",
+    "rawSpec": "2.2.2",
+    "saveSpec": null,
+    "fetchSpec": "2.2.2"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/homebridge-sma-inverter/-/homebridge-sma-inverter-2.2.2.tgz",
+  "_shasum": "bc73b1f8f2e6d74f41321ada09d44ef5263160c7",
+  "_spec": "homebridge-sma-inverter@2.2.2",
+  "_where": "/usr/local",
+  "author": {
+    "name": "codyc1515"
+  },
+  "bugs": {
+    "url": "https://github.com/codyc1515/homebridge-sma-inverter/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "fakegato-history": "^0.5.5",
+    "modbus-serial": "^7.7.3",
+    "moment": "^2.24.0",
+    "utils": "^0.3.1"
+  },
+  "deprecated": false,
+  "description": "Homebridge SMA Solar Inverter",
+  "devDependencies": {},
+  "engines": {
+    "homebridge": ">=0.4.0",
+    "node": ">=8.6.0"
+  },
+  "homepage": "https://github.com/codyc1515/homebridge-sma-inverter#readme",
+  "keywords": [
+  "homebridge-plugin",
+  "homebridge-sma-battery",
+  "battery",
+  "sma"
+],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "homebridge-sma-battery",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codyc1515/homebridge-sma-inverter.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "3.3.0"
+}
